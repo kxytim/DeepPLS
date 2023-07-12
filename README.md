@@ -5,6 +5,7 @@ Source code of
 ## Script Description
 + __models.py__ : The implementation of deep PLS and generalized deep PLS models.
 + __main.py__ : A simple demo of using generalized deep PLS for MNIST dataset with only 1000 training samples.
++ __utils.py__: The auxiliary functions.
 
 ## Requirements
 + python
